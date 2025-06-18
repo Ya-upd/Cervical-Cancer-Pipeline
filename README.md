@@ -17,7 +17,6 @@ This project implements an end-to-end machine learning pipeline to predict the r
 │   └── kag_risk_factors_cervical_cancer.csv  # Raw dataset
 ├── notebooks/
 │   └── cervical_cancer_pipeline.ipynb       # Jupyter notebook with full pipeline
-├── requirements.txt                         # Python dependencies
 └── README.md                                # Project overview and instructions
 ```
 
